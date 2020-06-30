@@ -1,6 +1,5 @@
 package com.springboot.service;
 
-import com.springboot.entity.User;
 import com.springboot.entity.UserFile;
 
 import java.util.List;
